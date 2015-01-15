@@ -1,0 +1,15 @@
+---
+# You can edit this configuration file, just follow the structure given with examples:
+
+# When someone dies on one of this worlds, he will keep its inventory, set to true to allow it anywhere
+AllowInventoryOnDeath:
+  - world
+
+# Allow players to drop items from their inventory on certain worlds only, set it to true to allow it anywhere
+AllowItemDrops:
+  - world
+
+# Allow players to pick items from the ground on certain worlds only, set it to true to allow it anywhere
+AllowItemPickups:
+  - world
+...

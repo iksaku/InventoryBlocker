@@ -1,0 +1,10 @@
+name: InventoryBlocker
+main: InventoryBlocker\Loader
+version: 1.0.0
+api: 1.9.0
+author: iksaku
+
+permissions:
+  inventoryblocker.command:
+    default: op
+    description: "Toggle on/off the features"
